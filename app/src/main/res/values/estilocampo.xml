@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="campos">
+        <item name="android:padding">7dp</item>
+        <item name="android:paddingLeft">10dp</item>
+    </style>
+</resources>
